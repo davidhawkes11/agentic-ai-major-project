@@ -18,20 +18,20 @@ Students will design and implement an agentic AI system that solves a real-world
 * Expected Features
 - Large Language Model integration
 - Multi-Agent Architecture
-Retrieval Augmented Generation (RAG)
-Tool Calling
-Conversational Memory
-Voice Interface
-User Interface
-Testing and Evaluation
-Technology Stack
-Python Ollama LangChain ChromaDB SQLite Whisper
+- Retrieval Augmented Generation (RAG)
+- Tool Calling
+- Conversational Memory
+- Voice Interface
+- User Interface
+- Testing and Evaluation
+- Technology Stack
+- Python Ollama LangChain ChromaDB SQLite Whisper
 
-Software Engineering Lifecycle
-Requirements Analysis
-System Design
-Implementation
-Testing
-Evaluation
-Deployment
+** Software Engineering Lifecycle
+- Requirements Analysis
+- System Design
+- Implementation
+- Testing
+- Evaluation
+- Deployment
 
