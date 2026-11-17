@@ -27,7 +27,7 @@ Students will design and implement an agentic AI system that solves a real-world
 - Technology Stack
 - Python Ollama LangChain ChromaDB SQLite Whisper
 
-** Software Engineering Lifecycle
+## Software Engineering Lifecycle
 - Requirements Analysis
 - System Design
 - Implementation
