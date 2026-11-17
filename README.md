@@ -15,7 +15,7 @@ Students will design and implement an agentic AI system that solves a real-world
 - Industry
 
 
-* Expected Features
+## Expected Features
 - Large Language Model integration
 - Multi-Agent Architecture
 - Retrieval Augmented Generation (RAG)
